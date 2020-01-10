@@ -1,0 +1,2 @@
+using mdl_wts.hdf5(best model from train log epoch Epoch 36/50) model test score on validation data  : 0.625
+using cheque_class.h5(at the end of epoch) model test score on validation data  : 0.87
