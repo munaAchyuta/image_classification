@@ -1,0 +1,76 @@
+Found 95 images belonging to 4 classes.
+Found 24 images belonging to 4 classes.
+Found 199 images belonging to 1 classes.
+Using TensorFlow backend.
+Epoch 1/50
+12/12 - 2s - loss: 0.6853 - acc: 0.7083 - val_loss: 0.6478 - val_acc: 0.7500
+Epoch 2/50
+12/12 - 0s - loss: 0.5991 - acc: 0.7500 - val_loss: 0.6468 - val_acc: 0.7500
+Epoch 3/50
+12/12 - 0s - loss: 0.5939 - acc: 0.7500 - val_loss: 0.6241 - val_acc: 0.7500
+Epoch 4/50
+12/12 - 0s - loss: 0.5894 - acc: 0.7174 - val_loss: 0.6469 - val_acc: 0.7500
+Epoch 5/50
+12/12 - 0s - loss: 0.5850 - acc: 0.7500 - val_loss: 0.6332 - val_acc: 0.7500
+Epoch 6/50
+12/12 - 0s - loss: 0.5964 - acc: 0.7500 - val_loss: 0.5993 - val_acc: 0.7500
+Epoch 7/50
+12/12 - 0s - loss: 0.5889 - acc: 0.7500 - val_loss: 0.6267 - val_acc: 0.7500
+Epoch 8/50
+12/12 - 0s - loss: 0.5813 - acc: 0.7500 - val_loss: 0.6557 - val_acc: 0.7500
+Epoch 9/50
+12/12 - 0s - loss: 0.5478 - acc: 0.7292 - val_loss: 0.5701 - val_acc: 0.7500
+Epoch 10/50
+12/12 - 0s - loss: 0.5862 - acc: 0.7500 - val_loss: 0.5998 - val_acc: 0.7500
+Epoch 11/50
+12/12 - 0s - loss: 0.5972 - acc: 0.7500 - val_loss: 0.6443 - val_acc: 0.7500
+Epoch 12/50
+12/12 - 0s - loss: 0.5847 - acc: 0.7500 - val_loss: 0.5418 - val_acc: 0.7500
+Epoch 13/50
+12/12 - 0s - loss: 0.5727 - acc: 0.7500 - val_loss: 0.6252 - val_acc: 0.7500
+Epoch 14/50
+12/12 - 0s - loss: 0.5862 - acc: 0.7500 - val_loss: 0.5179 - val_acc: 0.7500
+Epoch 15/50
+12/12 - 0s - loss: 0.5843 - acc: 0.7391 - val_loss: 0.5605 - val_acc: 0.7500
+Epoch 16/50
+12/12 - 0s - loss: 0.5651 - acc: 0.7500 - val_loss: 0.6297 - val_acc: 0.7500
+Epoch 17/50
+12/12 - 0s - loss: 0.5521 - acc: 0.7500 - val_loss: 0.5321 - val_acc: 0.7500
+Epoch 18/50
+12/12 - 0s - loss: 0.5379 - acc: 0.7500 - val_loss: 0.5447 - val_acc: 0.7500
+Epoch 19/50
+12/12 - 0s - loss: 0.4960 - acc: 0.7188 - val_loss: 0.4592 - val_acc: 0.8333
+Epoch 20/50
+12/12 - 0s - loss: 0.4905 - acc: 0.7717 - val_loss: 0.4135 - val_acc: 0.7500
+Epoch 21/50
+12/12 - 0s - loss: 0.4325 - acc: 0.7500 - val_loss: 0.5115 - val_acc: 0.7500
+Epoch 22/50
+12/12 - 0s - loss: 0.5029 - acc: 0.7292 - val_loss: 0.4786 - val_acc: 0.8333
+Epoch 23/50
+12/12 - 0s - loss: 0.3673 - acc: 0.8587 - val_loss: 0.3465 - val_acc: 0.9167
+Epoch 24/50
+12/12 - 0s - loss: 0.3643 - acc: 0.8750 - val_loss: 0.3009 - val_acc: 0.8333
+Epoch 25/50
+12/12 - 0s - loss: 0.4136 - acc: 0.7500 - val_loss: 0.2664 - val_acc: 0.8333
+Epoch 26/50
+12/12 - 0s - loss: 0.2754 - acc: 0.8587 - val_loss: 0.0989 - val_acc: 1.0000
+Epoch 27/50
+12/12 - 0s - loss: 0.3096 - acc: 0.8750 - val_loss: 0.1067 - val_acc: 1.0000
+Epoch 28/50
+12/12 - 0s - loss: 0.3786 - acc: 0.8438 - val_loss: 0.2576 - val_acc: 0.9167
+Epoch 29/50
+12/12 - 0s - loss: 0.2886 - acc: 0.8542 - val_loss: 0.2998 - val_acc: 0.7500
+Epoch 30/50
+12/12 - 0s - loss: 0.3492 - acc: 0.8438 - val_loss: 0.1660 - val_acc: 1.0000
+Epoch 31/50
+12/12 - 0s - loss: 0.1934 - acc: 0.8958 - val_loss: 0.4625 - val_acc: 0.8333
+Epoch 32/50
+12/12 - 0s - loss: 0.3380 - acc: 0.8696 - val_loss: 0.5480 - val_acc: 0.7500
+Epoch 33/50
+12/12 - 0s - loss: 0.3991 - acc: 0.8152 - val_loss: 0.2689 - val_acc: 0.8333
+Epoch 34/50
+12/12 - 0s - loss: 0.1874 - acc: 0.9479 - val_loss: 0.1879 - val_acc: 0.9167
+Epoch 35/50
+12/12 - 0s - loss: 0.1562 - acc: 0.9062 - val_loss: 0.6576 - val_acc: 0.7500
+Epoch 36/50
+12/12 - 0s - loss: 0.3057 - acc: 0.8958 - val_loss: 0.3905 - val_acc: 0.7500
